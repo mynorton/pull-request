@@ -1,4 +1,4 @@
-# my feature branch
+# my feature branch_EDITED
 
 Let's take this absurd commit history and use interactive rebase to clean things up!  
 
